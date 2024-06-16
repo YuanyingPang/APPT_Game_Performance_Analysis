@@ -5,7 +5,7 @@ This repository contains the code and data used for the research paper titled "P
 
 ## Contents
 - `code/`: Directory containing the source code.
-- `data/`: Directory containing sample data.
+- `tidy_datasets_v2/`: Directory containing sample data.
 
 
 ## Requirements
